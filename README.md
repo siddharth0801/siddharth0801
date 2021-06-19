@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @siddharth0801
 - 👀 I’m interested in DSA.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Web dev
+- 💞️ I’m looking to collaborate on Web dev
 - 📫 How to reach me siddharthsingh0801@gmail.com
 
 <!---
