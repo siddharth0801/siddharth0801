@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @siddharth0801
-- 👀 I’m interested in DSA.
-- 🌱 I’m currently learning Web dev
-- 💞️ I’m looking to collaborate on Web dev
-- 📫 How to reach me siddharthsingh0801@gmail.com
+- 👋 Hi, I’m Siddharth Singh
+- 👀 I’m interested in CP, DSA.
+- 🌱 I’m currently learning Web Development.
+- 💞️ I’m looking to collaborate on Web Development.
+- 📫 reach me at: siddharthsingh0801@gmail.com
 
 <!---
 siddharth0801/siddharth0801 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
