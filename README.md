@@ -2,7 +2,7 @@
 - 👀 I’m interested in CP, DSA.
 - 🌱 I’m currently learning Web Development.
 - 💞️ I’m looking to collaborate on Web Development.
-- 📫 reach me at: siddharthsingh0801@gmail.com
+- 📫 reach me at: sidsgsits@gmail.com
 
 <!---
 siddharth0801/siddharth0801 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
