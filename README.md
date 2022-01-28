@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Siddharth Singh
-- 👀 I’m interested in CP, DSA.
-- 🌱 I’m currently learning Web Development.
+- 👀 I’m interested in DSA.
 - 💞️ I’m looking to collaborate on Web Development.
 - 📫 reach me at: sidsgsits@gmail.com
 
